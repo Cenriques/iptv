@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:0,ABC TV (720p)
+#EXTGRP:
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0,Farra Play
+#EXTGRP:
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:0,GEN TV HD
+#EXTGRP:
+https://videohd.live:19360/8010/8010.m3u8?_=1
+#EXTINF:0,LIM TV [Not 24/7]
+#EXTGRP:
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:0,STAR Action Latinoamérica
+#EXTGRP:
+http://209.91.213.10:8088/play/a02b
+#EXTINF:0,STAR Classics Latinoamérica
+#EXTGRP:
+http://209.91.213.10:8088/play/a02d
+#EXTINF:0,STAR Fun Latinoamérica
+#EXTGRP:
+http://209.91.213.10:8088/play/a02c
+#EXTINF:0,STAR Life Latinoamérica
+#EXTGRP:
+http://209.91.213.10:8088/play/a00q
+#EXTINF:0,SUR TV Itapúa
+#EXTGRP:
+https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
+#EXTINF:0,Telefuturo (1080p)
+#EXTGRP:
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
+#EXTINF:0,Telefuturo (720p)
+#EXTGRP:
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
+#EXTINF:0,Trece Paraguay
+#EXTGRP:
+http://174.138.118.252/live/trece.m3u8
+#EXTINF:0,Unicanal [Not 24/7]
+#EXTGRP:
+http://45.55.127.106/live/unicanal.m3u8
+#EXTINF:0,Anime Zone TV
+#EXTGRP:Animation
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0,Locomotion TV (480p)
+#EXTGRP:Animation
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0,AXN Latinoamérica (576p)
+#EXTGRP:Entertainment
+http://190.61.37.173:8000/play/a01n/index.m3u8
+#EXTINF:0,AXN Latinoamérica (1080p)
+#EXTGRP:Entertainment
+http://190.61.37.173:8000/play/a04d/index.m3u8
+#EXTINF:0,Boomerang Latinoamérica
+#EXTGRP:Kids
+http://209.91.213.10:8088/play/a00m
+#EXTINF:0,Cartoon Network Latinoamérica
+#EXTGRP:Kids
+http://209.91.213.10:8088/play/a00k
+#EXTINF:0,Canal 26 (720p)
+#EXTGRP:News
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0,DW Español (1080p)
+#EXTGRP:News
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,France 24 Español (576p)
+#EXTGRP:News
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:0,Claro Cinema (576p)
+#EXTGRP:Movies
+http://209.91.213.10:8099/play/a00v
+#EXTINF:0,Claro Musica
+#EXTGRP:Music
+http://209.91.213.10:8088/play/a027
+#EXTINF:0,MTV Hits Latinoamérica (576p)
+#EXTGRP:Music
+http://209.91.213.10:8088/play/a00z
+#EXTINF:0,Claro Sports
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a024
+#EXTINF:0,ESPN 3 Latinoamérica
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a025
+#EXTINF:0,ESPN Latinoamérica
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a019
+#EXTINF:0,FOX Sports 2 Latinoamérica (576p)
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a026
+#EXTINF:0,FOX Sports 2 Latinoamérica (1080p)
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a02r
+#EXTINF:0,FOX Sports 3 Latinoamérica
+#EXTGRP:Sports
+http://209.91.213.10:8088/play/a00y
+#EXTINF:0,El Garage TV (480p)
+#EXTGRP:Auto
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8

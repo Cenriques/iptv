@@ -11,18 +11,6 @@ https://videohd.live:19360/8010/8010.m3u8?_=1
 #EXTINF:0,LIM TV [Not 24/7]
 #EXTGRP:
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-#EXTINF:0,STAR Action Latinoamérica
-#EXTGRP:
-http://209.91.213.10:8088/play/a02b
-#EXTINF:0,STAR Classics Latinoamérica
-#EXTGRP:
-http://209.91.213.10:8088/play/a02d
-#EXTINF:0,STAR Fun Latinoamérica
-#EXTGRP:
-http://209.91.213.10:8088/play/a02c
-#EXTINF:0,STAR Life Latinoamérica
-#EXTGRP:
-http://209.91.213.10:8088/play/a00q
 #EXTINF:0,SUR TV Itapúa
 #EXTGRP:
 https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
@@ -38,43 +26,7 @@ http://174.138.118.252/live/trece.m3u8
 #EXTINF:0,Unicanal [Not 24/7]
 #EXTGRP:
 http://45.55.127.106/live/unicanal.m3u8
-#EXTINF:0,Anime Zone TV
-#EXTGRP:Animation
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:0,Locomotion TV (480p)
-#EXTGRP:Animation
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0,AXN Latinoamérica (576p)
-#EXTGRP:Entertainment
-http://190.61.37.173:8000/play/a01n/index.m3u8
-#EXTINF:0,AXN Latinoamérica (1080p)
-#EXTGRP:Entertainment
-http://190.61.37.173:8000/play/a04d/index.m3u8
-#EXTINF:0,Boomerang Latinoamérica
-#EXTGRP:Kids
-http://209.91.213.10:8088/play/a00m
-#EXTINF:0,Cartoon Network Latinoamérica
-#EXTGRP:Kids
-http://209.91.213.10:8088/play/a00k
-#EXTINF:0,Canal 26 (720p)
-#EXTGRP:News
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:0,DW Español (1080p)
-#EXTGRP:News
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0,France 24 Español (576p)
-#EXTGRP:News
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:0,Claro Cinema (576p)
-#EXTGRP:Movies
-http://209.91.213.10:8099/play/a00v
-#EXTINF:0,Claro Musica
-#EXTGRP:Music
-http://209.91.213.10:8088/play/a027
-#EXTINF:0,MTV Hits Latinoamérica (576p)
-#EXTGRP:Music
-http://209.91.213.10:8088/play/a00z
 #EXTINF:0,Tigo Sports Py
-#EXTGRP:Sports
 http://tv5full.xyz:25461/wmgnesvr/hvfveaff/20523
-
+#EXTINF:0,Tigo Sports Py HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1750

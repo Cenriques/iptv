@@ -19,7 +19,7 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FT
 https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
 #EXTINF:0,Telefuturo (720p)
 #EXTGRP:
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/17504263832b27190bfe40f7&exp=1615764240
 #EXTINF:0,Trece Paraguay
 #EXTGRP:
 http://174.138.118.252/live/trece.m3u8

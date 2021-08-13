@@ -74,24 +74,7 @@ http://209.91.213.10:8088/play/a027
 #EXTINF:0,MTV Hits Latinoamérica (576p)
 #EXTGRP:Music
 http://209.91.213.10:8088/play/a00z
-#EXTINF:0,Claro Sports
+#EXTINF:0,Tigo Sports Py
 #EXTGRP:Sports
-http://209.91.213.10:8088/play/a024
-#EXTINF:0,ESPN 3 Latinoamérica
-#EXTGRP:Sports
-http://209.91.213.10:8088/play/a025
-#EXTINF:0,ESPN Latinoamérica
-#EXTGRP:Sports
-http://209.91.213.10:8088/play/a019
-#EXTINF:0,FOX Sports 2 Latinoamérica (576p)
-#EXTGRP:Sports
-http://209.91.213.10:8088/play/a026
-#EXTINF:0,FOX Sports 2 Latinoamérica (1080p)
-#EXTGRP:Sports
-http://209.91.213.10:8088/play/a02r
-#EXTINF:0,FOX Sports 3 Latinoamérica
-#EXTGRP:Sports
-http://209.91.213.10:8088/play/a00y
-#EXTINF:0,El Garage TV (480p)
-#EXTGRP:Auto
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/20523
+

@@ -7,7 +7,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:0,GEN TV HD
 #EXTGRP:
-https://videohd.live:19360/8010/8010.m3u8?_=1
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15179
 #EXTINF:0,LIM TV [Not 24/7]
 #EXTGRP:
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8

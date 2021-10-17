@@ -31,7 +31,7 @@ http://45.55.127.106/live/unicanal.m3u8
 http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15171
 #EXTINF:0,Tigo Sports Py
 #EXTGRP:
-http://tv5full.xyz:25461/wmgnesvr/hvfveaff/20523
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/25864bf1ef3b149063371769a3785af61ba305a3/f3c6113bbaa7dbefc6adab057e40adcf4341cbbc/100687_19.m3u8
 #EXTINF:0,Tigo Sports Py HD
 #EXTGRP:
 http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1750

@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,Tigo Sports Py
-#EXTGRP:
-http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45715.m3u8
 #EXTINF:0,Tigo Sports Py+
 #EXTGRP:
-http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1750
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45715.m3u8
+#EXTINF:0,Tigo Sports Py
+#EXTGRP:
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45714.m3u8
